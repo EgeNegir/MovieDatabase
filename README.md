@@ -16,3 +16,7 @@ Bu proje, bir sosyal film platformu (Letterboxd benzeri) için tasarlanmış kap
 - **Temel Varlıklar:** `film`, `actor` (aktör), `director` (yönetmen), `genre` (tür), `language` (dil).
 - **Kullanıcı Sistemi:** `user_account`, `subscriber` (Standart, Gold, Premium üyelik tipleri) ve `guest_user` (ziyaretçi).
 - **Etkileşimler:** `review` (1-10 arası puan doğrulama sistemli yorumlar) ve `watch_history` (izleme geçmişi).
+
+
+Bu proje, veritabanı şemasını, verileri ve fonksiyonları korumak amacıyla PostgreSQL Backup (yedek) formatında (.sql) yüklenmiştir.
+Görüntülemek veya çaılştırmak için dosyayı indirmeniz gerekir.
